@@ -1,6 +1,6 @@
 fix-gdm (1.0.0-2) unstable; urgency=medium
 
-  * Rename "override.conf" to "fix-black-screen.conf".
+  * UPD: Rename "override.conf" to "fix-black-screen.conf".
 
  -- Package Store <kitsune.solar@gmail.com>  Sat, 02 Oct 2021 15:13:03 +0000
 
