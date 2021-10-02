@@ -1,4 +1,4 @@
-<package name="fix-gdm" project="home:pkgstore:deb-ext">
+<package name="fix-gdm" project="home:pkgstore:deb-fix">
   <title/>
   <description/>
 </package>
